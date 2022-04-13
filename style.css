@@ -30,6 +30,10 @@ section {
     border-radius: 10px;
     margin: 12px 0px;
 }
+
+.red:hover, .green:hover, .purple:hover, .yellow:hover, .grey:hover, .blue:hover {
+    background-color: rgb(131, 131, 131);
+}
 .red {
     background-color: red;
 }
